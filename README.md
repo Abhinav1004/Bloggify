@@ -8,11 +8,11 @@ A blog application using the django web framework has been created in the follow
 	3. Added pagination to the blog application
 
 **2**
-	1. 
-	2. 
-	3. 
+	1.  
+	2.  
+	3.   
 
 
 
-Database: SQlite3
+Database:   SQlite3
 
